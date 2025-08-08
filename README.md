@@ -22,13 +22,13 @@
 <body>
 
 <header style="text-align:center; padding: 20px; background-color: black; color: white;">
-    <img src="logo.jpg" alt="Apple Market" style="max-height:100px; display:block; margin: 0 auto;">
-    <h1 style="margin-top: 10px;">Apple Market</h1>
+    <img src="logo.jpg" alt="Apple Market🍎" style="max-height:100px; display:block; margin: 0 auto;">
+    <h1 style="margin-top: 10px;">Apple Market🍎</h1>
 </header>
 
 
 <div class="wrap">
-  <h1>Каталог iPhone</h1>
+  <h1>Каталог iPhone📱</h1>
 
   <div class="grid">
 
