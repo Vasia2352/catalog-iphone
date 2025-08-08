@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Каталог — iPhone</title>
+<title>Каталог — iPhone📱</title>
 <style>
   body { background:#000; color:#fff; font-family:Arial,Helvetica,sans-serif; margin:0; padding:20px;}
   .wrap { max-width:1100px; margin:0 auto; }
@@ -33,7 +33,7 @@
   <div class="grid">
 
     <div class="card">
-      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/IPhone_13.jpg" alt="iPhone 13">
+      <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/36/ba/iphone-13-128-midnight_e9733bb6-5b79-46e9-b163-494ffcdea7cf-1.png.webp" alt="iPhone 13">
       <div class="title">iPhone 13</div>
       <div class="variant">128 GB</div><div class="price">900 BYN</div>
       <a class="order" href="https://t.me/your_bot?start=iphone13_128" target="_blank">Заказать в Telegram</a>
