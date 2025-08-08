@@ -157,7 +157,6 @@
 
   </div>
 
-  <footer>Изображения: Wikimedia Commons (файлы доступны по специальным страницам на commons.wikimedia.org). Поменяй ссылку бота в кнопках на свою.</footer>
 </div>
 </body>
 </html>
