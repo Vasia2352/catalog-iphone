@@ -154,9 +154,3 @@
       <div class="variant">512 GB</div><div class="price">2400 BYN</div>
       <a class="order" href="https://t.me/your_bot?start=iphone16promax_512" target="_blank">Заказать в Telegram</a>
     </div>
-
-  </div>
-
-</div>
-</body>
-</html>
